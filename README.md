@@ -1,4 +1,4 @@
-CPU Scheduling Algorithms Simulator
+CPU SCHEDULING ALGORITHM STIMULATOR
 
 
 Description
