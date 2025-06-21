@@ -20,6 +20,8 @@ Summary metrics for average waiting, turnaround, and response times.
 Responsive design with a clean and modern UI.
 Input validation to ensure valid process parameters.
 
+Host Link : https://glistening-babka-d105ea.netlify.app/
+
 Technologies Used
 
 HTML5: For the structure of the web application.
